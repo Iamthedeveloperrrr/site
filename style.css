@@ -1,0 +1,163 @@
+*{
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+*,*:before,*:after{
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+:focus,:active{outline: none;}
+a:focus,a:active{outline: none;}
+
+nav;footer;header;aside{display: block;}
+html,body{
+	height: 100%;
+	width: 100%;
+	font-size:100%;
+	-ms-text-size-adjust: 100%;
+   -moz-text-size-adjust:100%;
+   -webkit-text-size-adjust:100% ;
+}
+input,button,textarea{font-family: inherit;}
+
+input::-ms-clear{display: -none;}
+button{cursor: pointer;}
+button:-moz-focus-inner{padding: 0;border: 0;}
+a,a:visited{text-decoration: none;}
+a:hover{text-decoration: none;}
+ul li{list-style: none;}
+img{vertical-align:  top;}
+h1,h2,h3,h4,h5,h6{font-size: inherit;font-weight: 400;}
+
+body{
+background: url('../img/layer_0_54 (1).png') 0 0;
+}
+.top-name{
+	opacity: 0.6;
+	font-family: Arial;
+	font-size: 14px;
+line-height: 40px;
+font-weight: 400;
+text-transform: uppercase;
+letter-spacing: 0.2em;
+color: #273d46;
+margin: 170px 0px 0px 672px;
+}
+.top_name1{
+	font-family: 'Times New Roman';
+font-size: 36px;
+line-height: 50px;
+font-weight: 400;
+color: #273d46;
+margin: 29px 0px 0px 348px;
+}
+.border_1{
+width: 841px;
+height: 561px;
+box-shadow: 0px 15px 65px 0px;
+background: rgba(15,16,16,0.10);
+margin: 77px 0px 0px 290px;
+background: url('../img/light_man_copy_26.png')50% no-repeat;
+}
+.text_1{
+opacity: 0.8;
+font-family: 'Times New Roman';
+font-size: 24px;
+line-height: 40px;
+font-weight: 400;
+color: #273d46;
+max-width: 736px;
+margin: 95px 0px 0px 335px;
+}
+.text_2{
+	opacity: 0.8;
+font-family: 'Times New Roman';
+font-size: 24px;
+line-height: 40px;
+font-weight: 400;
+color: #273d46;
+max-width: 736px;
+margin: 65px 0px 0px 335px;
+}
+.row_1 {
+background: url('../img/check_icon_37.png')center left no-repeat ;
+padding: 0px 0px 0px 30px;
+}
+.row_2{
+	background: url('../img/check_icon_37.png')center left no-repeat ;
+padding: 0px 0px 0px 30px;
+}
+.row_3{
+	background: url('../img/check_icon_37.png')center left no-repeat ;
+padding: 0px 0px 0px 30px;
+}
+.kr{
+	background: url('../img/check_icon_37.png')center left no-repeat ;
+padding: 0px 0px 0px 30px;
+opacity: 1;
+display: block;
+}
+.row{
+	margin: 65px 0px 0px 367px;
+}
+.row_1{
+Text: Put on this page information about your product ;
+font-family: Arial;
+font-size: 20px;
+line-height: 36px;
+font-weight: 400;
+text-shadow: 0px 1px 0px rgba(0,0,0,0.3);
+color: #273d46;
+}
+.row_2{
+	Text: A detailed description of your product;
+font-family: Arial;
+font-size: 20px;
+line-height: 36px;
+font-weight: 400;
+font-style: italic;
+color: #80b7b3;
+}
+.row_3{
+Text: Tell us about the advantages and merits;
+font-family: Arial;
+font-size: 20px;
+line-height: 36px;
+font-weight: 700;
+color: #273d46;
+}
+
+.row_4  {
+	Text: Associate the page with the payment system;
+font-family: Arial;
+font-size: 20px;
+line-height: 36px;
+font-weight: 400;
+text-decoration: line-through;
+color: #273d46;
+opacity: 0.4;
+}
+.blacklist{
+	background: url('../')0 0 no-repeat ;
+width: 200px;
+height: 40px;
+box-shadow: 0px 6px 40px 0px;
+background: rgba(128,183,179,0.54);
+border-radius: 25px;
+margin: 55px 0px 0px 367px
+
+}
+.black{
+	Text: Full Story;
+font-family: Arial;
+font-size: 14px;
+line-height: 40px;
+font-weight: 400;
+text-transform: uppercase;
+letter-spacing: 0.2em;
+color: #ffffff;
+padding: 0px 35px 0px 35px;
+display: block;
+}
